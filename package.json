@@ -1,0 +1,24 @@
+{
+  "name": "sc-birthday",
+  "version": "1.0.0",
+  "description": "Quick informative page about Sara Caitlin's 2026 birthday party",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server",
+    "dev": "five-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/livrush/sc-birthday.git"
+  },
+  "author": "livrush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/livrush/sc-birthday/issues"
+  },
+  "homepage": "https://github.com/livrush/sc-birthday#readme",
+  "dependencies": {
+    "five-server": "^0.4.5",
+    "http-server": "^14.1.1"
+  }
+}
